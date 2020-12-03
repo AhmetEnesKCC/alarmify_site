@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/alarmify_site/static/css/main.83f9f48e.chunk.css",
-    "main.js": "/alarmify_site/static/js/main.fb5b352b.chunk.js",
-    "main.js.map": "/alarmify_site/static/js/main.fb5b352b.chunk.js.map",
+    "main.css": "/alarmify_site/static/css/main.0b068e02.chunk.css",
+    "main.js": "/alarmify_site/static/js/main.7f87b37e.chunk.js",
+    "main.js.map": "/alarmify_site/static/js/main.7f87b37e.chunk.js.map",
     "runtime-main.js": "/alarmify_site/static/js/runtime-main.48a9597a.js",
     "runtime-main.js.map": "/alarmify_site/static/js/runtime-main.48a9597a.js.map",
     "static/js/2.775f3f10.chunk.js": "/alarmify_site/static/js/2.775f3f10.chunk.js",
     "static/js/2.775f3f10.chunk.js.map": "/alarmify_site/static/js/2.775f3f10.chunk.js.map",
     "index.html": "/alarmify_site/index.html",
-    "static/css/main.83f9f48e.chunk.css.map": "/alarmify_site/static/css/main.83f9f48e.chunk.css.map",
+    "static/css/main.0b068e02.chunk.css.map": "/alarmify_site/static/css/main.0b068e02.chunk.css.map",
     "static/js/2.775f3f10.chunk.js.LICENSE.txt": "/alarmify_site/static/js/2.775f3f10.chunk.js.LICENSE.txt",
     "static/media/App.css": "/alarmify_site/static/media/MavenPro-Regular.a4fe88a7.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.48a9597a.js",
     "static/js/2.775f3f10.chunk.js",
-    "static/css/main.83f9f48e.chunk.css",
-    "static/js/main.fb5b352b.chunk.js"
+    "static/css/main.0b068e02.chunk.css",
+    "static/js/main.7f87b37e.chunk.js"
   ]
 }
