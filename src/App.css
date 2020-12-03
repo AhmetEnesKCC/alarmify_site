@@ -26,7 +26,7 @@ html {
   align-items: center;
 }
 
-svg {
+.header svg {
   transform: scale(1.5);
 }
 
@@ -94,3 +94,27 @@ svg {
   text-align: center;
   color: var(--color);
 }
+
+@media screen and (max-width: 1000px) {
+  .link_container {
+    height: 60px;
+    width: 33%;
+    min-width: 250px;
+  }
+  .link_container svg {
+    height: 30px;
+  }
+  .header {
+    height: 90px;
+  }
+  .header svg {
+    transform: scale(0.9);
+  }
+  .big_text {
+    text-align: center;
+    font-size: 60px;
+    color: var(--color);
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+} ;
